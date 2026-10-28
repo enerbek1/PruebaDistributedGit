@@ -1,1 +1,1 @@
-This is my second file, but modified.
+This is my second file, but now modified in the branch.

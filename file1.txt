@@ -1,1 +1,1 @@
-Changes at branch2.
+File changed both at branch2 and branch1.
