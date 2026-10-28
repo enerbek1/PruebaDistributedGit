@@ -1,4 +1,4 @@
 matlab parameters = readParametersFromFile(“parametersFile”) 
 simulationResults = simulateModelUsingParameters(parameters) 
 writeResultsIntoFile(simulationResults,“resultsFile”)
-OpeningOfWindow
+OpeningOfWindow-correction
