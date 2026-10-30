@@ -1,1 +1,3 @@
-changed in folder 2
+<<<<<<< HEAD
+This is the change made in folder 1 and this change is made in folder 2
+>>>>>>> origin/develop
